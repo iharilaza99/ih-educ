@@ -1,0 +1,11 @@
+/* Amélioration de la lisibilité sur mobile */
+@media screen and (max-width: 600px) {
+    .md-nav--primary {
+        font-size: 14px;
+    }
+}
+
+/* Style personnalisé pour les titres */
+h1 {
+    color: #3f51b5;
+}
