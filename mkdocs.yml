@@ -1,0 +1,26 @@
+site_name: ih-educ
+site_description: Plateforme numérique pour les étudiants.
+site_author: Andriamizana Iharilaza
+theme:
+  logo: assets/logo.png
+  name: material
+  language: fr
+  palette:
+    primary: indigo
+    accent: deep purple
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Accueil: index.md
+  - Profil: profil/index.md
+  - BUP & Examens: bup/index.md
+  - Bibliothèque: bibliotheque/index.md
+  - Contact: contact/index.md
+
+markdown_extensions:
+  - admonition
+  - tables
