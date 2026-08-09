@@ -3,7 +3,6 @@ site_description: Plateforme numérique pour les étudiants.
 site_author: Andriamizana Iharilaza
 site_url: https://iharilaza99.github.io/ih-educ/
 theme:
-  logo: assets/logo.png
   name: material
   language: fr
   palette:
