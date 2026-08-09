@@ -1,11 +1,10 @@
 # Bilan Unifié Pédagogique (BUP)
 
-Cette section contient les informations relatives à votre progression et aux évaluations.
+Cette section présente les informations relatives à votre progression et aux évaluations.
 
-| Semestre | Intitulé | Ressources |
-| :--- | :--- | :--- |
-| **S1** | Évaluation théorique | [Télécharger PDF](../bibliotheque/index.md) |
-| **S2** | Projet pratique | À venir |
+| Semestre | Intitulé              | Ressources |
+| :------: | :-------------------- | :--------- |
+| **S1**   | Évaluation théorique  | [Télécharger PDF](assets/s1_evaluation.pdf)  
+| **S2**   | Projet pratique       | À venir — la documentation et les livrables seront ajoutés dans `docs/assets/`.
 
-> [!TIP]
-> Tous les documents sont optimisés pour une consultation sur mobile.
+> Astuce : placez les fichiers PDF dans `docs/assets/` (par ex. `s1_evaluation.pdf`) pour que le lien ci-dessus fonctionne après déploiement.

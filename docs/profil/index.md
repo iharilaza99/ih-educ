@@ -1,13 +1,17 @@
 # Profil de la Plateforme
 
-Bienvenue sur la section profil d'**ih-educ**. Cette plateforme a été conçue pour moderniser et faciliter le suivi pédagogique des étudiants.
+Cette section présente la mission et les objectifs d'**ih-educ**, ainsi que la personne référente pour la maintenance et les informations pédagogiques.
 
-## 🎯 Nos Objectifs
-* **Centraliser les informations :** Avoir un point d'accès unique pour les actualités et les notes.
-* **Accessibilité mobile :** Permettre aux étudiants de consulter les ressources facilement depuis leurs smartphones ou tablettes.
-* **Sécurité et Fiabilité :** Garantir la transparence des données administratives et pédagogiques.
+## Objectifs
+- Centraliser les informations pédagogiques et administratives pour les étudiants.
+- Offrir un accès mobile et optimisé aux supports de cours et aux résultats.
+- Garantir la sécurité et la fiabilité des informations partagées.
 
-## 👤 Administrateur / Responsable
-* **Nom :** Andriamizana Iharilaza
-* **Rôle :** Enseignant / Développeur de la plateforme
-* **Disponibilité :** Du lundi au vendredi
+## Administrateur / Responsable
+- **Nom :** Andriamizana Iharilaza
+- **Rôle :** Enseignant / Développeur de la plateforme
+- **Disponibilité :** Jours ouvrés (voir la page Contact pour les coordonnées)
+
+---
+
+Pour toute demande relative à vos notes ou à l'accès aux ressources, merci de contacter l'équipe via la page Contact ou d'ouvrir une issue sur GitHub.
