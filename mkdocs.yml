@@ -16,7 +16,6 @@ theme:
 
 nav:
   - Accueil: index.md
-  - Profil: profil/index.md
   - Bibliothèque: bibliotheque/index.md
   - Contact: contact/index.md
 
